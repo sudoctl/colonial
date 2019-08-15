@@ -1,0 +1,5 @@
+C:\Users\Jack\RiderProjects\colonial\colonial\obj\Debug\colonial.csprojResolveAssemblyReference.cache
+C:\Users\Jack\RiderProjects\colonial\colonial\bin\Debug\colonial.exe
+C:\Users\Jack\RiderProjects\colonial\colonial\bin\Debug\colonial.pdb
+C:\Users\Jack\RiderProjects\colonial\colonial\obj\Debug\colonial.exe
+C:\Users\Jack\RiderProjects\colonial\colonial\obj\Debug\colonial.pdb
